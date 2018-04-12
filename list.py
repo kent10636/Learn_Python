@@ -55,7 +55,7 @@ print()
 
 # 空的list
 emplylist = []
-len(emplylist)
+print(len(emplylist))
 
 if __name__ == '__main__':
     pass
